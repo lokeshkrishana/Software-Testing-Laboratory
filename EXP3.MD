@@ -62,5 +62,8 @@ Reason: The entered number is not a prime number.
 
 ```
 
+
+
+
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
