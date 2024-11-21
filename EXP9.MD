@@ -1,6 +1,6 @@
 # Ex.No: 9  Pytest program for Sum of Digits 
 
-### DATE: 1/11/2024                                                                         
+### DATE:                                                                        
 ### REGISTER NUMBER : 212222040087
 ### AIM: 
 To write a python program for sum of digits and validate the code using Pytest. 
