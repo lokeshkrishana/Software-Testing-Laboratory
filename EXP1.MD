@@ -1,6 +1,10 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
+
+
 ### DATE:                                                                      
 ### REGISTER NUMBER : 212222040087
+
+
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
 Cases 
@@ -34,6 +38,7 @@ def display():
 ```
 
 ### ii.) while…do 
+
 ```
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ")
@@ -62,6 +67,7 @@ n=input('Enter a value for N: ') try:
 except ValueError:
    print("Enter a valid number.")
 switch() 
+
 ```
 
 ### iv.) if else
@@ -81,6 +87,7 @@ def compare():
         print("A is equal to B")
   except ValueError:
         print(“Enter a valid number.”) 
+
 ```
 
 ### v.) for
@@ -91,6 +98,7 @@ def iterate():
     i in string:
        print(ord(i),end=" ")
 iterate() 
+
 ```
 
 ### Output:
